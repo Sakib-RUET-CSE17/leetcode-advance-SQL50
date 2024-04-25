@@ -1,4 +1,4 @@
-# Leetcode 50 Advanced SQL Problems #
+# LeetCode 50 Advanced SQL Problems #
 
 Link: https://leetcode.com/studyplan/premium-sql-50/
 
