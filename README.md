@@ -2,6 +2,8 @@
 
 Link: https://leetcode.com/studyplan/premium-sql-50/
 
+My LeetCode Profile: https://leetcode.com/hsakib8685/
+
 **Summary**
 
     * Basic to advanced SQL topics
